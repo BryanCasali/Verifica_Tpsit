@@ -18,5 +18,3 @@ class ImpiantoSolare:
    def rimuovi_pannello(self, codice:str)
        pannelli.remove(codice)
        
-
-    
